@@ -17,4 +17,9 @@ public class nPuzzle {
 		StartState = new PuzzleState(startState);
 		GoalState = new PuzzleState(goalState);
 	}
+	public nPuzzle(int[][]stratState, int[][]goal)
+	{
+		stratState = inital state(set state);
+		goal setting = new settings (goal_change);
+	}
 }
